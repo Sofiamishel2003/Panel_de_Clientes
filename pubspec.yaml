@@ -10,7 +10,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  # HTTP para consumir API
+  http: ^1.1.0
+  
+  # Provider para manejo de estado
+  provider: ^6.1.1
+  
+  # Iconos de Cupertino
+  cupertino_icons: ^1.0.2
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
